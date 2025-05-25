@@ -1,4 +1,4 @@
-# Revpanda Task – WordPress Affiliate Listing Theme
+# WordPress Theme for Revpanda Task
 
 This custom WordPress theme was developed as part of a recruitment task for Revpanda.  
 The goal was to turn a Figma design into a functional affiliate listing homepage using HTML, CSS, JavaScript, and WordPress.
